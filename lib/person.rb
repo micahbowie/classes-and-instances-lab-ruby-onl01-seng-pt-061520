@@ -1,8 +1,4 @@
 class Person
 end 
-fido = Dog.new
-fido
-snoopy = Dog.new
-snoopy
-lassie = Dog.new
-lassie
+adele_golberg = Person.new
+adele_golberg
